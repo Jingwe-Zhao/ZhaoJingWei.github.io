@@ -1,4 +1,4 @@
-[![Jingwe-Zhao](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
+[![Jingwe-Zhao](https://img.shields.io/badge/Jingwe-Zhao-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
 
 I’m a Ph.D. candidate :student: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman:, leveraging computational approaches to address key challenges in reproductive health.
 
