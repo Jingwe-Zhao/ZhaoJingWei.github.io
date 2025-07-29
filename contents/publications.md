@@ -1,6 +1,4 @@
-- XXXXXXX论文
+- J. Zhao, W. Chen, Y. Feng, Z. Jia, Z. -H. Luo and J. Zhou, "Pan-cancer Single Cell Atlas Reveals Tumor Hallmark Gene Modules and Their Clinical Relevance," 2024 3rd International Conference on Health Big Data and Intelligent Healthcare (ICHIH), Zhuhai, China, 2024, pp. 222-227, doi: 10.1109/ICHIH63459.2024.11064793. IEEE Conference Proceedings
 
-- XXXXXXX论文
 
-- XXXXXXX论文
 
