@@ -1,10 +1,9 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Jingwe-Zhao](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I’m a Ph.D. candidate :student: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman:, leveraging computational approaches to address key challenges in reproductive health.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zhaojingwei1027@163.com</code>  
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
