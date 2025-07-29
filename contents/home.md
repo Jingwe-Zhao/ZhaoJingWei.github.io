@@ -1,4 +1,4 @@
-[![Jingwe-Zhao](https://img.shields.io/badge/Jingwe-Zhao-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
+[![JingweiZhao](https://img.shields.io/badge/JingweiZhao-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
 
 I’m a Ph.D. candidate :student: in Physiology at Xiamen University School of Medicine. My research focuses on the intersection of bioinformatics :computer: and reproductive medicine :pregnant_woman:, leveraging computational approaches to address key challenges in reproductive health.
 
@@ -6,14 +6,11 @@ I’m a Ph.D. candidate :student: in Physiology at Xiamen University School of M
 <code>zhaojingwei1027@163.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Xiamen University**, Ph.D of Physiology 2029 (expected) 
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Wuhan University of Science and Technology**, M.S. of Biology and Medicine 2025  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Jianghan University**, B.S. of Biotechnology 2022
 
 #### Research Interests  
-XX, XX, XX, XX.
+Bioinformatics, Machine Learning, Reproductive Medicine.
