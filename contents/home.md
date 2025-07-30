@@ -1,6 +1,6 @@
 [![JingweiZhao](https://img.shields.io/badge/JingweiZhao-github-blue?logo=github)](https://github.com/Jingwe-Zhao)
 
-I’m a Ph.D. candidate :student: in physiology at Xiamen University School of Medicine.
+I’m a Ph.D. candidate👨🏼‍🎓 in physiology at Xiamen University School of Medicine.
 
 #### Email  
 <code>zhaojingwei1027@163.com</code>  
@@ -13,4 +13,4 @@ I’m a Ph.D. candidate :student: in physiology at Xiamen University School of M
 **Jianghan University**, B.S. of Biotechnology 2022
 
 #### Research Interests  
-Bioinformatics🧬, Machine Learning :computer:, Reproductive Medicine :pregnant_woman:.
+Bioinformatics🧬, Machine Learning🖥️, Reproductive Medicine🤰🏼.
